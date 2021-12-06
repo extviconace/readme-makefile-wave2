@@ -51,6 +51,5 @@ La metodologia de trabajo que seguiremos sera la de Git Flow dejamos adjunta una
 * Rama develop
 * Rama feature (nombre del requerimiento)
 
-```
+
 Tomar en cuenta: para hacer un merge a master / main se debe realizar un pull request desde develop.
-```
